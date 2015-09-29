@@ -35,6 +35,8 @@
         text-align: left;
     }
     .DairyDate{
+        float:none;
+        padding-left: 0.25em;
         border-left: 3px solid #C0C0C0;
     }
     .DairyList{
