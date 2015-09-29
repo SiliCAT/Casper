@@ -38,14 +38,14 @@
         float:none;
         width:auto;
         padding-left: 0.5rem;
-        border-left: 3px solid #C0C0C0;
+        border-left: 0.25rem solid #C0C0C0;
         margin-bottom: 0.5rem
     }
     .DairyList{
         margin-left: 0;
     }
     .day {
-        padding: 1rem 0 0 0.5rem;
+        padding: 0.5rem 0 0 0.5rem;
     }
     .month-year {
         padding-left: 0.5rem;
