@@ -22,3 +22,19 @@
 .DairyList{
     margin-left:12em;
 }
+
+
+/* ==========================================================================
+       Media Queries - Smaller than 900px
+   ========================================================================== */
+
+@media only screen and (max-width: 900px) {
+
+    .DairyDate{
+        float:none;
+        width:100%;
+    }
+    .DairyList{
+        margin-left:0;
+    }
+}
