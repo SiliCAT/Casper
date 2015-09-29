@@ -30,9 +30,12 @@
 
 @media only screen and (max-width: 900px) {
 
+    .notepad-post-meta {
+        display: block;
+        text-align: left;
+    }
     .DairyDate{
-        float:none;
-        width:100%;
+        border-left: 3px solid #C0C0C0;
     }
     .DairyList{
         margin-left:0;
