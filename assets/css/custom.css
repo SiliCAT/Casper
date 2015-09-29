@@ -6,12 +6,12 @@
     font-size: 2.5em;
     font-weight: 800;
     color: #e51843;
-    margin-top: 0.5rem;
+    margin-top: 1rem;
     font-family: "Montserrat", sans-serif; }
 .month-year {
     display: block;
     color: black;
-    margin-top: 0.25rem;
+    margin-top: 0.5rem;
     font-size: 0.75em;
     font-family: "Montserrat", sans-serif;
     text-transform: uppercase; }
