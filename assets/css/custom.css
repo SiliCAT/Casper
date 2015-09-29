@@ -36,10 +36,17 @@
     }
     .DairyDate{
         float:none;
+        width:auto;
         padding-left: 0.25em;
         border-left: 3px solid #C0C0C0;
     }
     .DairyList{
-        margin-left:0;
+        margin-left: 0;
+    }
+    .day {
+        padding: 1rem 0 0 0.5rem;
+    }
+    .month-year {
+        padding-left: 0.5rem;
     }
 }
