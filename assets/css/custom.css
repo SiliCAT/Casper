@@ -37,8 +37,9 @@
     .DairyDate{
         float:none;
         width:auto;
-        padding-left: 0.25em;
+        padding-left: 0.5rem;
         border-left: 3px solid #C0C0C0;
+        margin-bottom: 0.5rem
     }
     .DairyList{
         margin-left: 0;
