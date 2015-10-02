@@ -26,3 +26,33 @@
 	-moz-border-radius: 50%;
 	-webkit-border-radius: 50%;
 }
+
+.smallhl {
+    width: 15em;
+    position: relative;
+    color: black;
+    z-index: 1;
+    margin: 0.75em 0px 0.25em 0px;
+    clear: both;
+}
+.smallhl:before {
+    content:'❖';
+    color: #2E5C8A;
+    font-size: 2em;
+    vertical-align: top;
+    line-height: 0.9em;
+    margin-right: 1.25rem;
+}
+.smallhl:after {
+    content:'';
+    background-color: #333;
+    height: 1px;
+    display: block;
+    position: absolute;
+    top: 1.4em;
+    left: 0;
+    width: 100%;
+    -moz-box-shadow: 3px 3px 2px #000000;
+    -webkit-box-shadow: 3px 3px 2px #000000;
+    box-shadow: 3px 3px 2px #000000;
+}
