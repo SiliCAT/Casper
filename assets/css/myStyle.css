@@ -28,7 +28,6 @@
 }
 
 .smallhl {
-    width: 15em;
     position: relative;
     color: black;
     z-index: 1;
@@ -52,6 +51,7 @@
     top: 1.4em;
     left: 0;
     width: 100%;
+    padding-right: 1.75em;
     -moz-box-shadow: 3px 3px 2px #000000;
     -webkit-box-shadow: 3px 3px 2px #000000;
     box-shadow: 3px 3px 2px #000000;
