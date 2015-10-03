@@ -105,10 +105,10 @@
 }
 .vlableText {
     margin: -12px 1.5em 0.5em 20px;
-    padding: 1.25em 1.25em 2em 1.25em;
+    padding: 0.25em 1.25em 2em 1.25em;
     font-family: "anonymous_proregular", "Lucida Console", Monaco, monospace;
     font-size: 0.8em;
-    line-height: 1.5em;
+    line-height: 1.75em;
     border: 1px black solid;
     min-height: 60px;
 }
