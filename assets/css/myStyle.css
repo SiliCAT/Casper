@@ -115,3 +115,23 @@
 .vlableText .command::before {
   content: '$ ';
 }
+
+
+.btitleh {
+    display:inline-block;
+    line-height:1rem;
+    vertical-align:bottom;
+    color: white;
+    background: black;
+    font-size: 0.8em;
+    font-weight: bold;
+    border:1px black solid;
+    padding:0 1em;
+}
+.btitlew {
+    display:inline-block;
+    line-height:1rem;
+    vertical-align:bottom;
+    border-bottom:1px black solid;
+    padding:0 1.25em 0 0.5em;
+}
