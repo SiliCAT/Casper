@@ -35,6 +35,7 @@
 #disqus_thread {
     width: 80%;
     word-wrap: break-word;
+    margin: 0 auto;
 }
 
 .notepad-post-meta {
