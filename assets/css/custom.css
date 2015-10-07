@@ -32,11 +32,6 @@
     font-style: normal;
 }
 
-#disqus_thread {
-    width: 80%;
-    word-wrap: break-word;
-    margin: 4rem auto;
-}
 
 .notepad-post-meta {
     display: block;
